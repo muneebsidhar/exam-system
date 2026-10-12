@@ -75,4 +75,4 @@ A student logs in, selects a subject, answers all the questions and submits. The
 ## Author
 
 Muneeb Ur Rehman
-Computer Science student, UET Taxila
+Computer Science , UET Taxila
